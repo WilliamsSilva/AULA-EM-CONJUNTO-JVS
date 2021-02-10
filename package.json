@@ -1,0 +1,18 @@
+{
+  "name": "aula_em_conjunto001",
+  "version": "0.0.1",
+  "description": "teste em conjunto com Sinezio",
+  "main": "index.js",
+  "repository": "https://github.com/WilliamsSilva/AULA-EM-CONJUNTO-JVS.git",
+  "author": "williams",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon src/index.js"  
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
